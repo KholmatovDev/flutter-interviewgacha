@@ -84,8 +84,5 @@ Flutter bo'yicha interview'gacha bilishingiz kerak bo'lgan ko'nikmalar.
 9. REST API dan ma‘lumot olish uchun qanday paketlar ishlatiladi?  
 10. Performance optimizatsiyasi uchun qanday usullar mavjud?
 
-## **Xulosa**
-
-Flutter intervyusiga tayyorgarlik ko‘rish uchun yuqoridagi mavzularni yaxshi o‘zlashtirish kerak. Real loyihalarda ishlash, kod yozish va amaliy mashqlar bajarish eng samarali yo‘ldir. Suhbatga tayyorgarlik uchun ilovalar yaratib, ularni Play Store yoki GitHub-ga joylasht
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAAYCAYAAAABHCipAAACAklEQVR4Xu2YTUoDQRCFR/wBl+5E3Lr2Doo7N66i21zCneBK8A7ixmsogjdIBA/hFUxi2qRIzzdV3fPTQyT0B2/RVa/azivEYFG05Gw0mYVEf6YHGDpFfyYx56PJC0OnOJNJDAPXxJlMYhi4Js5kEsPAKfo78FhDPu68g9pmwtAp+jvC0DX5pFrEyVzHLHrE+v3C0Cn6E6CFHSLVImI/N9bvhzV+M2r6gTd3EQxcE2cS0vQDO+8uzqF59uWsqU7fh33N47DuX8HAKxpPv0oD6ak+KozzrnsRfu1UqRHeU/ZVQo/8FsyX8k0PxZkaWI+3cN4uixCsumD17wu759B6UmN9AUMMBcq+Js7UxH+kJR93XucirLrg/n65/o1Xi83oAdfxlDSeTjnTgPgjy/yXRdSRwLPOxefs1lrC4etk5lQJ3/C3oN4jVzjvHs6heatv1QWrb9VDtJlZIUuwlkF/S5o+kt7YvNW36oLVt+oh2sws4BK4DPo70PSR9Ibmpaf1rbpg9aUu35bIQ1Gds+4Kw/Ap+jvS9JGaV7tDalrPIfXL5dn9S8NH+gfL85XS472xenMYvmhr8PSn7cHzNWda0vSRmteF5Ifg3xm6X/P7hPrsiYa+aYk2Xx9/Aft3H++yBF+cyfTE0dvPkOFTnMn0CMOn6M/0CMOn6M/0CMOn6M+E+QVjkg5wJSkqFAAAAABJRU5ErkJggg==>
